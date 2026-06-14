@@ -65,4 +65,4 @@ http://localhost:5173
 
 ## Author
 
-Sanika Bobade
+Sakshi Bobade
